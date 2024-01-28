@@ -1,0 +1,448 @@
+<?xml version="1.0"?>
+<robot name="LBRiiwa14R820">
+    <link name="robot_base">
+        <collision name="LBRiiwa14R820">
+            <origin xyz="-0.007261 -0.375054 0.078663" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_robot_base_coll_1.dae" />
+            </geometry>
+        </collision>
+        <collision name="LBRiiwa14R820">
+            <origin xyz="-0.007261 -0.375054 0.078663" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_robot_base_coll_2.dae" />
+            </geometry>
+        </collision>
+        <collision name="LBRiiwa14R820">
+            <origin xyz="-0.007261 -0.375054 0.078663" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_robot_base_coll_3.dae" />
+            </geometry>
+        </collision>
+        <collision name="LBRiiwa14R820">
+            <origin xyz="-0.007261 -0.375054 0.078663" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_robot_base_coll_4.dae" />
+            </geometry>
+        </collision>
+        <collision name="LBRiiwa14R820">
+            <origin xyz="-0.007261 -0.375054 0.078663" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_robot_base_coll_5.dae" />
+            </geometry>
+        </collision>
+        <collision name="LBRiiwa14R820">
+            <origin xyz="-0.007261 -0.375054 0.078663" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_robot_base_coll_6.dae" />
+            </geometry>
+        </collision>
+        <collision name="LBRiiwa14R820">
+            <origin xyz="-0.007261 -0.375054 0.078663" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_robot_base_coll_7.dae" />
+            </geometry>
+        </collision>
+        <collision name="LBRiiwa14R820">
+            <origin xyz="-0.007261 -0.375054 0.078663" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_robot_base_coll_8.dae" />
+            </geometry>
+        </collision>
+        <collision name="LBRiiwa14R820">
+            <origin xyz="-0.007261 -0.375054 0.078663" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_robot_base_coll_9.dae" />
+            </geometry>
+        </collision>
+        <collision name="LBRiiwa14R820">
+            <origin xyz="-0.007261 -0.375054 0.078663" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_robot_base_coll_10.dae" />
+            </geometry>
+        </collision>
+        <collision name="LBRiiwa14R820">
+            <origin xyz="-0.007261 -0.375054 0.078663" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_robot_base_coll_11.dae" />
+            </geometry>
+        </collision>
+        <collision name="LBRiiwa14R820">
+            <origin xyz="-0.007261 -0.375054 0.078663" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_robot_base_coll_12.dae" />
+            </geometry>
+        </collision>
+        <collision name="LBRiiwa14R820">
+            <origin xyz="-0.007261 -0.375054 0.078663" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_robot_base_coll_13.dae" />
+            </geometry>
+        </collision>
+        <collision name="LBRiiwa14R820">
+            <origin xyz="-0.007261 -0.375054 0.078663" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_robot_base_coll_14.dae" />
+            </geometry>
+        </collision>
+        <collision name="LBRiiwa14R820">
+            <origin xyz="-0.007261 -0.375054 0.078663" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_robot_base_coll_15.dae" />
+            </geometry>
+        </collision>
+        <collision name="LBRiiwa14R820">
+            <origin xyz="-0.007261 -0.375054 0.078663" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_robot_base_coll_16.dae" />
+            </geometry>
+        </collision>
+        <collision name="LBRiiwa14R820">
+            <origin xyz="-0.007261 -0.375054 0.078663" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_robot_base_coll_17.dae" />
+            </geometry>
+        </collision>
+        <visual name="link">
+            <origin xyz="-0.007221 -0.375007 0.078750" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link_vis_1.dae" />
+            </geometry>
+            <material name="link_material">
+                <color rgba="0.941176 0.941176 0.941176 1.0" />
+            </material>
+        </visual>
+        <visual name="link">
+            <origin xyz="-0.007221 -0.375007 0.078750" rpy="-3.141593 3.141593 1.919862" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link_vis_2.dae" />
+            </geometry>
+            <material name="link_material">
+                <color rgba="1.000000 0.570959 0.260274 1.0" />
+            </material>
+        </visual>
+    </link>
+    <joint type="revolute" name="joint">
+        <axis xyz="0 0 1" />
+        <limit upper="2.9670596122742" velocity="1.9198621511459" effort="176.0" lower="-2.9670596122742" />
+        <parent link="robot_base" />
+        <child link="link2_resp" />
+        <origin xyz="-0.004727 -0.381858 0.152500" rpy="-3.141593 3.141593 1.919862" />
+    </joint>
+    <link name="link2_resp">
+        <inertial>
+            <origin rpy="-3.141593 3.141593 -3.141593" xyz="0.000044 -0.022528 0.128315" />
+            <inertia izz="0.029407721075839" iyz="0.0075376077254163" ixz="3.5043295529543e-05" iyy="0.062637049123666" ixx="0.061949499980468" ixy="-4.2022489491937e-06" />
+            <mass value="2.0" />
+        </inertial>
+        <collision name="link2_resp">
+            <origin xyz="0.000142 -0.015037 0.148608" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link2_resp_coll_1.dae" />
+            </geometry>
+        </collision>
+        <collision name="link2_resp">
+            <origin xyz="0.000142 -0.015037 0.148608" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link2_resp_coll_2.dae" />
+            </geometry>
+        </collision>
+        <visual name="link">
+            <origin xyz="0.000000 -0.015099 0.148902" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link_2_vis_1.dae" />
+            </geometry>
+            <material name="link_2_material">
+                <color rgba="1.000000 0.570959 0.260274 1.0" />
+            </material>
+        </visual>
+    </link>
+    <joint type="revolute" name="joint_2">
+        <axis xyz="0 0 1" />
+        <limit upper="2.094395160675" velocity="1.9198621511459" effort="176.0" lower="-2.094395160675" />
+        <parent link="link2_resp" />
+        <child link="link3_resp" />
+        <origin xyz="0.000000 0.000000 0.207500" rpy="-1.570796 3.141593 0.000000" />
+    </joint>
+    <link name="link3_resp">
+        <inertial>
+            <origin rpy="-1.570796 3.141593 0.000000" xyz="0.000384 0.064677 0.031907" />
+            <inertia izz="0.027901361880773" iyz="0.0099419432019578" ixz="0.00010297341964241" iyy="0.064074811587275" ixx="0.065480944205794" ixy="-5.5093983987736e-05" />
+            <mass value="2.0" />
+        </inertial>
+        <collision name="link3_resp">
+            <origin xyz="0.000595 0.059486 0.032034" rpy="-1.570796 3.141593 0.000000" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link3_resp_coll_1.dae" />
+            </geometry>
+        </collision>
+        <collision name="link3_resp">
+            <origin xyz="0.000595 0.059486 0.032034" rpy="-1.570796 3.141593 0.000000" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link3_resp_coll_2.dae" />
+            </geometry>
+        </collision>
+        <visual name="link">
+            <origin xyz="0.000436 0.059509 0.032054" rpy="-1.570796 3.141593 0.000000" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link_3_vis_1.dae" />
+            </geometry>
+            <material name="link_3_material">
+                <color rgba="0.941176 0.941176 0.941176 1.0" />
+            </material>
+        </visual>
+        <visual name="link">
+            <origin xyz="0.000436 0.059509 0.032054" rpy="-1.570796 3.141593 0.000000" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link_3_vis_2.dae" />
+            </geometry>
+            <material name="link_3_material">
+                <color rgba="1.000000 0.570959 0.260274 1.0" />
+            </material>
+        </visual>
+    </link>
+    <joint type="revolute" name="joint_3">
+        <axis xyz="0 0 1" />
+        <limit upper="2.9670596122742" velocity="2.2340214252472" effort="100.0" lower="-2.9670596122742" />
+        <parent link="link3_resp" />
+        <child link="link4_resp" />
+        <origin xyz="-0.000000 0.221000 0.000000" rpy="-1.570796 3.141593 0.000000" />
+    </joint>
+    <link name="link4_resp">
+        <inertial>
+            <origin rpy="-3.141593 3.141593 -3.141593" xyz="-0.000009 0.023398 0.112798" />
+            <inertia izz="0.025493437364201" iyz="-0.010164441111686" ixz="1.6690215523112e-05" iyy="0.066355727860679" ixx="0.069628312223766" ixy="-1.4946658783049e-05" />
+            <mass value="2.0" />
+        </inertial>
+        <collision name="link4_resp">
+            <origin xyz="-0.000035 0.023255 0.125313" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link4_resp_coll_1.dae" />
+            </geometry>
+        </collision>
+        <collision name="link4_resp">
+            <origin xyz="-0.000035 0.023255 0.125313" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link4_resp_coll_2.dae" />
+            </geometry>
+        </collision>
+        <visual name="link">
+            <origin xyz="0.000005 0.023139 0.125246" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link_4_vis_1.dae" />
+            </geometry>
+            <material name="link_4_material">
+                <color rgba="1.000000 0.570959 0.260274 1.0" />
+            </material>
+        </visual>
+        <visual name="link">
+            <origin xyz="0.000005 0.023139 0.125246" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link_4_vis_2.dae" />
+            </geometry>
+            <material name="link_4_material">
+                <color rgba="0.941176 0.941176 0.941176 1.0" />
+            </material>
+        </visual>
+        <visual name="link">
+            <origin xyz="0.000005 0.023139 0.125246" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link_4_vis_3.dae" />
+            </geometry>
+            <material name="link_4_material">
+                <color rgba="0.517647 0.517647 0.517647 1.0" />
+            </material>
+        </visual>
+    </link>
+    <joint type="revolute" name="joint_4">
+        <axis xyz="0 0 1" />
+        <limit upper="2.094395160675" velocity="2.2340214252472" effort="100.0" lower="-2.094395160675" />
+        <parent link="link4_resp" />
+        <child link="link5_resp" />
+        <origin xyz="0.000000 0.000000 0.199000" rpy="1.570797 3.141593 0.000000" />
+    </joint>
+    <link name="link5_resp">
+        <inertial>
+            <origin rpy="1.570797 3.141593 -0.000000" xyz="-0.000000 -0.069989 0.025511" />
+            <inertia izz="0.02849143762768" iyz="-0.0095846156137265" ixz="-1.4229045826541e-05" iyy="0.062370498386877" ixx="0.065627000638938" ixy="-3.0720793249862e-06" />
+            <mass value="2.0" />
+        </inertial>
+        <collision name="link5_resp">
+            <origin xyz="-0.000230 -0.058244 0.023172" rpy="1.570797 3.141593 -0.000000" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link5_resp_coll_1.dae" />
+            </geometry>
+        </collision>
+        <collision name="link5_resp">
+            <origin xyz="-0.000230 -0.058244 0.023172" rpy="1.570797 3.141593 -0.000000" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link5_resp_coll_2.dae" />
+            </geometry>
+        </collision>
+        <visual name="link">
+            <origin xyz="-0.000000 -0.058255 0.023239" rpy="1.570797 3.141593 -0.000000" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link_5_vis_1.dae" />
+            </geometry>
+            <material name="link_5_material">
+                <color rgba="0.941176 0.941176 0.941176 1.0" />
+            </material>
+        </visual>
+        <visual name="link">
+            <origin xyz="-0.000000 -0.058255 0.023239" rpy="1.570797 3.141593 -0.000000" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link_5_vis_2.dae" />
+            </geometry>
+            <material name="link_5_material">
+                <color rgba="1.000000 0.570959 0.260274 1.0" />
+            </material>
+        </visual>
+    </link>
+    <joint type="revolute" name="joint_5">
+        <axis xyz="0 0 1" />
+        <limit upper="2.9670596122742" velocity="3.560471534729" effort="100.0" lower="-2.9670596122742" />
+        <parent link="link5_resp" />
+        <child link="link6_resp" />
+        <origin xyz="-0.000000 -0.179500 0.000000" rpy="1.570797 3.141593 -0.000000" />
+    </joint>
+    <link name="link6_resp">
+        <inertial>
+            <origin rpy="-3.141593 3.141593 -3.141593" xyz="-0.000058 -0.025084 0.105264" />
+            <inertia izz="0.028704240272089" iyz="0.01743932128393" ixz="-1.5400706466743e-06" iyy="0.065353014054758" ixx="0.070361056744539" ixy="1.4296320014811e-05" />
+            <mass value="2.0" />
+        </inertial>
+        <collision name="link6_resp">
+            <origin xyz="0.000104 -0.015498 0.138539" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link6_resp_coll_1.dae" />
+            </geometry>
+        </collision>
+        <collision name="link6_resp">
+            <origin xyz="0.000104 -0.015498 0.138539" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link6_resp_coll_2.dae" />
+            </geometry>
+        </collision>
+        <collision name="link6_resp">
+            <origin xyz="0.000104 -0.015498 0.138539" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link6_resp_coll_3.dae" />
+            </geometry>
+        </collision>
+        <visual name="link">
+            <origin xyz="0.000021 -0.015462 0.138500" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link_6_vis_1.dae" />
+            </geometry>
+            <material name="link_6_material">
+                <color rgba="1.000000 0.570959 0.260274 1.0" />
+            </material>
+        </visual>
+        <visual name="link">
+            <origin xyz="0.000021 -0.015462 0.138500" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link_6_vis_2.dae" />
+            </geometry>
+            <material name="link_6_material">
+                <color rgba="0.517647 0.517647 0.517647 1.0" />
+            </material>
+        </visual>
+        <visual name="link">
+            <origin xyz="0.000021 -0.015462 0.138500" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link_6_vis_3.dae" />
+            </geometry>
+            <material name="link_6_material">
+                <color rgba="0.941176 0.941176 0.941176 1.0" />
+            </material>
+        </visual>
+    </link>
+    <joint type="revolute" name="joint_6">
+        <axis xyz="0 0 1" />
+        <limit upper="2.094395160675" velocity="3.2114057540894" effort="38.0" lower="-2.094395160675" />
+        <parent link="link6_resp" />
+        <child link="link7_resp" />
+        <origin xyz="0.000000 -0.065700 0.220500" rpy="-1.570796 3.141593 0.000000" />
+    </joint>
+    <link name="link7_resp">
+        <inertial>
+            <origin rpy="-1.570796 3.141593 0.000000" xyz="-0.000002 0.003087 0.065833" />
+            <inertia izz="0.038594863015146" iyz="0.0028934553396824" ixz="-1.0268024492953e-05" iyy="0.052919941658458" ixx="0.054369928773881" ixy="-1.2216953536765e-05" />
+            <mass value="2.0" />
+        </inertial>
+        <collision name="link7_resp">
+            <origin xyz="-0.000434 -0.002620 0.068752" rpy="-1.570796 3.141593 0.000000" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link7_resp_coll_1.dae" />
+            </geometry>
+        </collision>
+        <visual name="link">
+            <origin xyz="0.000001 -0.002604 0.068807" rpy="-1.570796 3.141593 0.000000" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link_7_vis_1.dae" />
+            </geometry>
+            <material name="link_7_material">
+                <color rgba="1.000000 0.570959 0.260274 1.0" />
+            </material>
+        </visual>
+        <visual name="link">
+            <origin xyz="0.000001 -0.002604 0.068807" rpy="-1.570796 3.141593 0.000000" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link_7_vis_2.dae" />
+            </geometry>
+            <material name="link_7_material">
+                <color rgba="0.941176 0.941176 0.941176 1.0" />
+            </material>
+        </visual>
+    </link>
+    <joint type="revolute" name="joint_7">
+        <axis xyz="0 0 1" />
+        <limit upper="3.0543260574341" velocity="3.2114057540894" effort="38.0" lower="-3.0543260574341" />
+        <parent link="link7_resp" />
+        <child link="link8_resp" />
+        <origin xyz="-0.000000 0.076100 0.065700" rpy="-1.570796 3.141593 0.000000" />
+    </joint>
+    <link name="link8_resp">
+        <inertial>
+            <origin rpy="-3.141593 3.141593 -3.141593" xyz="0.000138 -0.000018 0.017092" />
+            <inertia izz="0.011642093361783" iyz="-9.1508271951731e-06" ixz="-5.5030304772896e-06" iyy="0.0066607662650793" ixx="0.0066026421413775" ixy="1.5490255466963e-05" />
+            <mass value="1.0" />
+        </inertial>
+        <collision name="link8_resp">
+            <origin xyz="-0.000256 -0.000000 0.019982" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link8_resp_coll_1.dae" />
+            </geometry>
+        </collision>
+        <collision name="link8_resp">
+            <origin xyz="-0.000256 -0.000000 0.019982" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link8_resp_coll_2.dae" />
+            </geometry>
+        </collision>
+        <collision name="link8_resp">
+            <origin xyz="-0.000256 -0.000000 0.019982" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link8_resp_coll_3.dae" />
+            </geometry>
+        </collision>
+        <visual name="link">
+            <origin xyz="-0.000355 -0.000000 0.019950" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link_8_vis_1.dae" />
+            </geometry>
+            <material name="link_8_material">
+                <color rgba="0.941176 0.941176 0.941176 1.0" />
+            </material>
+        </visual>
+        <visual name="link">
+            <origin xyz="-0.000355 -0.000000 0.019950" rpy="-3.141593 3.141593 -3.141593" />
+            <geometry>
+                <mesh filename="file://D:/advance_robotics_project-I/kuka_URDF_link_8_vis_2.dae" />
+            </geometry>
+            <material name="link_8_material">
+                <color rgba="0.811765 0.811765 0.811765 1.0" />
+            </material>
+        </visual>
+    </link>
+</robot>
